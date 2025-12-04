@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "pangoperps",
   "VITE_ORDERLY_BROKER_NAME": "pangolin",
   "VITE_BROKER_EOA_ADDRESS": "0x4a04d5bfff5332dea73774d35c1afdb7a6542187",
   "VITE_DISABLE_MAINNET": "false",
