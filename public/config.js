@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/PangolinV3",
-  "VITE_DISCORD_URL": "",
+  "VITE_DISCORD_URL": "https://discord.gg/a6JJybnMhY",
   "VITE_TWITTER_URL": "https://x.com/pangolindex",
   "VITE_SEO_SITE_NAME": "Pangolin Dex",
   "VITE_SEO_SITE_DESCRIPTION": "Pangolin is a multichain decentralized exchange (DEX) on Avalanche, launched by AvaLabs in 2021. Swap tokens, provide liquidity, and earn rewards across AVAX, Hedera, Flare, and SGB.",
