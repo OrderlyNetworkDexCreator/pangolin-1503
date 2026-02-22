@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Pangolin is a multichain decentralized exchange (DEX) on Avalanche, launched by AvaLabs in 2021. Swap tokens, provide liquidity, and earn rewards across AVAX, Hedera, Flare, and SGB.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Vaults",
+  "VITE_ENABLED_MENUS": "Vaults,Leaderboard,Portfolio,Trading,Markets",
   "VITE_CUSTOM_MENUS": "Spot, https://app.pangolin.exchange/swap; Pool, https://app.pangolin.exchange/pool; Stake, https://app.pangolin.exchange/stakexmas",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
